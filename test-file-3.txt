@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 edited this on master branch
+=======
+
+>>>>>>> qa
